@@ -1,0 +1,7 @@
+garage
+cameras
+hot water
+balcony
+parking
+childproofing
+storage

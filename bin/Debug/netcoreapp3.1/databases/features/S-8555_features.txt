@@ -1,0 +1,5 @@
+storage
+garage
+hot water
+parking
+balcony

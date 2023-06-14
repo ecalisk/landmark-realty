@@ -1,0 +1,161 @@
+***START OF RECORD***
+S-8555
+112
+3
+2
+Stadionowa 1, 20-405 Lublin
+1
+Single-family house
+For rent
+3450
+***OWNER DETAILS***
+Kondrad Danek
+12.12.1978
+d.kondrad780@gmail.com
+
+567234537
+***AGENT DETAILS***
+Alina Lorbiecka
+
+a.lorbiecka@lrg.com
+
+578754154
+C-12
+***START OF RECORD***
+M-6446
+176
+5
+3
+Targ Rybny 1, 80-838 Gdańsk
+1
+Single-family house
+For sale
+2350000
+***OWNER DETAILS***
+Krystian Gibas
+
+gibaskk245@onet.pl
+
+567412596
+***AGENT DETAILS***
+Agnieszka Polka
+
+a.polka@lrg.com
+
+568954712
+A-24
+***START OF RECORD***
+R-1595
+235
+6
+3
+Turystyczna 10a, 23-300 Janów Lubelski
+1
+Townhouse
+For rent
+5500
+***OWNER DETAILS***
+Oliwia Wróbel-Janos
+
+oliwiajanos1@02.pl
+
+
+***AGENT DETAILS***
+Aldona Szymańska
+
+a.szymanska@lrg.com
+Chopina 42, 37-450 Stalowa Wola
+567213453
+B-32
+***START OF RECORD***
+C-7333
+92
+3
+2
+Marszałkowska 8, 02-850 Warszawa
+12
+Apartment
+Sold / Rented
+4500
+***OWNER DETAILS***
+Jakub Blaszczykowski
+14.12.1985
+jakubb7219@wp.pl
+Wołoska 12, 02-675 Warszawa
+452653123
+***AGENT DETAILS***
+Paulina Dąbrowska
+02.04.1982
+p.dabrowska@lrg.com
+Bruzdowa 128, 02-991 Warszawa
+568485239
+A-03
+***START OF RECORD***
+W-1021
+128
+4
+2
+Lwowska 32, 40-389 Katowice
+1
+Townhouse
+For sale
+1890000
+***OWNER DETAILS***
+Łukasz Teodorczyk
+
+
+
+456234678
+***AGENT DETAILS***
+Jan Nowak
+
+j.nowak1@lrg.com
+
+567234135
+B-12
+***START OF RECORD***
+R-8024
+39
+1
+1
+Chopina 42, 37-450 Stalowa Wola
+3
+Office space
+For rent
+1200
+***OWNER DETAILS***
+Kacper Kowalczyk
+04.06.1988
+kkowalczykk@onet.pl
+
+524653
+***AGENT DETAILS***
+Urszula Jankowska
+
+u.jankowska@lrg.com
+Mariana Rejewskiego 5, 85-791 Bydgoszcz
+456234157
+C-24
+***START OF RECORD***
+S-9927
+133
+4
+3
+Cicha 31, 05-462 Żanęcin
+1
+Single-family house
+For sale
+1850000
+***OWNER DETAILS***
+Marek Mazur
+
+
+
+745653644
+***AGENT DETAILS***
+Paulina Woźniak
+
+p.wozniak@lrg.com
+
+456845246
+A-22

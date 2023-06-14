@@ -1,0 +1,7 @@
+storage
+garage
+furnished
+hot water
+parking
+alarm
+childproofing

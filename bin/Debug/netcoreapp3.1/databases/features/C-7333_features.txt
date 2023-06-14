@@ -1,0 +1,12 @@
+fiber infrastructure
+childproofing
+alarm
+furnished
+cameras
+garage
+hot water
+elevator
+parking
+balcony
+pool
+storage
